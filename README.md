@@ -40,15 +40,5 @@ A beautiful, minimal, and high-performance To-Do List application designed to he
 4. **Launch the app:**
    Simply open `src/index.html` in your browser or use a Live Server extension.
 
-## 🌐 Deployment (Render)
-
-This project is optimized for deployment as a **Static Site** on Render.
-
-**Settings used:**
-- **Branch:** `main`
-- **Build Command:** `npm install && npx tailwindcss -i ./src/input.css -o ./src/output.css`
-- **Publish Directory:** `src`
-- **Environment Variables:** None required.
-
 ---
 Built with ❤️ by [Bhavit Gupta](https://github.com/bhavit-gupta)
