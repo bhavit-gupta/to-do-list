@@ -2,8 +2,6 @@
 
 A beautiful, minimal, and high-performance To-Do List application designed to help you stay organized and focused. Built with a focus on modern aesthetics (Glassmorphism) and smooth user experience.
 
-![Demo Placeholder](https://via.placeholder.com/800x400?text=To-Do+List+App+Demo)
-
 ## 🚀 Live Demo
 **Check out the live website here:** [Live Demo Link](https://bg-to-do-list.onrender.com)
 
