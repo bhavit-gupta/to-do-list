@@ -50,7 +50,7 @@
     }
 
     .btn-primary {
-        @apply px-4 py-2 bg-accent text-white text-sm font-medium rounded-lg transition-all duration-200 ease-out hover:bg-accent-dark hover:shadow-glow active:scale-95 focus:outline-none focus:ring-2 focus:ring-accent/50;
+        @apply px-4 py-3 bg-accent text-white text-sm font-medium rounded-lg transition-all duration-200 ease-out hover:bg-accent-dark hover:shadow-glow active:scale-95 focus:outline-none focus:ring-2 focus:ring-accent/50;
     }
 
     .btn-danger {
